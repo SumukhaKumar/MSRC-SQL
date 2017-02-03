@@ -1,0 +1,6 @@
+Steps to import these sql files :
+
+1. First import "Create.sql" file
+2. Second import the 'insert.sql' file
+3. Third import the 'alter.sql' file
+4. Finally run the queries.sql
